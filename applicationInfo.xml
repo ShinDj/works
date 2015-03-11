@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<works>
+ <APPLICATIONINFO>
+  <START url="start.xml" /> 
+  <ORIENTATION type="defaultPortrait" />
+ </APPLICATIONINFO>
+</works>
